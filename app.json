@@ -1,0 +1,6 @@
+{
+  "name": "kozineffect-profile",
+  "description": "Joseph Kozlowski's profile page.",
+  "repository": "https://github.com/kozineffect/professional-profile.git",
+  "keywords": ["node", "express", "heroku"]
+}
